@@ -16,13 +16,18 @@ function App() {
         <div className="app-input">
           <form>
             <div>
+              <Link to="/">
+                <span>HomePage</span>
+              </Link>
+            </div>
+            <div>
               <Link to="/timer">
-                <span>TimerScreen</span>
+                <span>Timer-Screen</span>
               </Link>
             </div>
             <div>
               <Link to="/list-timers">
-                <span>ListTimerScreen</span>
+                <span>List of Timers Screen</span>
               </Link>
             </div>
           </form>

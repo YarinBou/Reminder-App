@@ -1,6 +1,6 @@
 # Reminder-App
 
-A WEB application that co-responds to fully-functional reminder.</br>
+A WEB application that co-responds to fully-functional reminder app.</br>
 
 # Built With
 

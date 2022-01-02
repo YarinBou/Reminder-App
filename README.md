@@ -2,9 +2,6 @@
 
 A WEB application that co-responds to fully-functional reminder.</br>
 
-https://user-images.githubusercontent.com/62481484/133147180-f8628d64-aa53-4f01-8013-c4f5bca1652d.mp4
-
-
 # Built With
 
 - Javascript: with ES6 coding standards.
